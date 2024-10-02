@@ -1,5 +1,17 @@
 ## Hi there 👋
 
+## About Me
+Hi, Im Jennifer! I am a sophomore, and I am interested in full stack.
+
+## Skills
+I am skilled in baking!
+
+### Classes
+I have taken a really cool history class!
+
+### Tools and Programming Languages
+I know Java and Python. 
+
 <!--
 **jennifer566/jennifer566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
