@@ -4,20 +4,31 @@ Project Outline (20%): In the project outline, you will specify details about th
 What type of project will you work on? Will it be a web app, mobile app, or something else?  What will your project do?
 (Answer with a minimum of 200 words)
 
+I will be working on a web app that functions as a project managment tool for software development. I will include functionalities for users to organize their work, and work collaberatively with their teams. 
+This project management web application will help users through the software development lifecycle, from prototyping to presentation. By using the technologies like HTML, CSS, and Typescript, the web application will be able to function interactively. 
 
 Why did you choose to work on this project? What motivates you to choose this topic?
 (Answer with a minimum of 100 words)
 
+I want to work on this project because I understand the importance of project management when producing a software development project. Previously, I have worked on hackathons, and throughout my internship last summer
+I found great difficulity to keep alignment with my manager and monitor the progress of my teammates and I. With a one-stop-shop for my application, it will greatly reduce these difficulties. 
 
 Who is the target audience of this app? Be specific about the demographic (age / occupation), the type of devices they might use (computer, Apple phone, smartwatch, etc).
 (Answer with a minimum of 200 words)
 
+The target audience of this app will be students or working individuals who have a computer, and want a way to organize their projects. This type of application can be useful for those working in
+software engineering, consulting, or business analytics. 
 
 What problem does your project hope to tackle? How will your final product help to solve this problem? How will the target audience you specified above benefit from your app?
 (Answer with a minimum of 200 words)
 
+Challenges often arise due to lack of communication, organization, and alignment between team members when working on a new porject. 
+These challenges can become signifcant problems that can cause delayed production and project development. By tackling this issue, it can help anyone interested in building, creating, and working on new projects on their own, or with a team. 
 
 Identify the programming language(s) you will need to learn in order to work on this project. Provide a link to the official documentation for this programming language. Also, please provide 3 free, easy-to-access resources that you can use to learn this programming language.
 
+HTML, CSS, JavaScript are basic languagues that I may be using to work on this project.
 
 Identify the tools, frameworks, etc. you might need to learn in order to work on this project. Please provide a link to each.
+
+React and Typescript are common web development framework tools that I could use to work on this project.
